@@ -2,3 +2,6 @@
 # ignore mac folders
 **/.DS_Store
 
+# adding cline files
+cline-memory-bank.md
+memory-bank/
